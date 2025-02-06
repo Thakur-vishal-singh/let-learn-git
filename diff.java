@@ -1,5 +1,8 @@
-public class{
+public class Diff{
+public static void main String(String args[]){
 
 
-    
+
+}
+
 }
